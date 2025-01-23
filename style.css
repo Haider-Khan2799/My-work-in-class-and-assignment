@@ -1,0 +1,42 @@
+nav{
+color:red;
+background-color: black;
+position: sticky;
+
+
+
+}
+
+h2{
+background-color: white;
+border-color: black;
+border-style: solid;
+width: 100px;
+border-right-width: 20px;
+border-bottom-width: none;
+border-top-width: none;
+border-left-width: none;
+color: blue;
+position: sticky;
+}
+
+p{
+text-align: center;
+color: white;
+background-image:url(A\ view\ of\ a\ skyscrapers\ from\ below.\ _\ Premium\ AI-generated\ image);
+
+}
+
+h1{
+background-color: greenyellow;
+color: red;
+text-align: center;
+position: static;
+}
+
+body{
+background-color: greenyellow;
+
+
+
+}
